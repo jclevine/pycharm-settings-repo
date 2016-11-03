@@ -1,0 +1,19 @@
+<scheme name="justin" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2016-10-31T13:42:42</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2016.2.3.0.0</property>
+    <property name="modified">2016-10-31T13:42:50</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <attributes>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="aa673a" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
