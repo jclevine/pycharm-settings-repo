@@ -1,0 +1,12 @@
+<templateSet group="JavaScript">
+  <template name="FUTURE" value="// TODO-FUTURE: jlevine - $END$" description="TODO-FUTURE" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="TODO" value="// TODO: jlevine - $END$" description="TODO" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
