@@ -4,4 +4,11 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="unittest" value="from unittest import TestCase&#10;&#10;&#10;class Test$UNDER_TEST$(TestCase):&#10;&#10;    def test$FIRST_TEST$(self):&#10;        $END$pass" description="unittest template." toReformat="false" toShortenFQNames="true">
+    <variable name="UNDER_TEST" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FIRST_TEST" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
