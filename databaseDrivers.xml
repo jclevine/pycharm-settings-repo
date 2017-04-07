@@ -4,7 +4,7 @@
       <artifact name="H2" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="oracle" name="Oracle" dialect="Oracle">
+    <driver id="oracle" name="Oracle" dialect="OracleSqlPlus">
       <artifact name="Oracle" use="true" version="12.1.0.2" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
@@ -32,6 +32,7 @@
     <driver id="sqlite.xerial" name="Sqlite (Xerial)" dialect="SQLite">
       <artifact name="Xerial SQLiteJDBC" use="true" />
       <option name="auto-sync" value="true" />
+      <property name="enable_load_extension" value="true" />
     </driver>
     <driver id="sybase.ase" name="Sybase (Native)" dialect="Sybase">
       <option name="auto-sync" value="true" />
