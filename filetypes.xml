@@ -5,6 +5,7 @@
       <mapping ext="jsonschema" type="JSON Schema" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping pattern=".noserc" type="PLAIN_TEXT" />
+      <mapping pattern="conda" type="PLAIN_TEXT" />
       <mapping pattern=".condarc" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="post-checkout" type="PLAIN_TEXT" />
