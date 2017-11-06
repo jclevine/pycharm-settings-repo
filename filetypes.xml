@@ -2,19 +2,20 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="Dockerfile*" type="Dockerfile" />
-      <mapping ext="jsonschema" type="JSON Schema" />
-      <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping pattern=".noserc" type="PLAIN_TEXT" />
-      <mapping pattern=".condarc" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="conda" type="PLAIN_TEXT" />
       <mapping pattern="post-checkout" type="PLAIN_TEXT" />
+      <mapping pattern="moo" type="PLAIN_TEXT" />
+      <mapping pattern=".condarc" type="PLAIN_TEXT" />
+      <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="model" type="PLAIN_TEXT" />
       <mapping ext="whl" type="PLAIN_TEXT" />
       <mapping ext="wsgi" type="PLAIN_TEXT" />
+      <mapping ext="jsonschema" type="JSON Schema" />
+      <mapping pattern="Dockerfile*" type="Dockerfile" />
     </extensionMap>
   </component>
 </application>
