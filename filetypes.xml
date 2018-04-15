@@ -16,6 +16,7 @@
       <mapping ext="model" type="PLAIN_TEXT" />
       <mapping ext="whl" type="PLAIN_TEXT" />
       <mapping ext="wsgi" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="jsonschema" type="JSON Schema" />
       <mapping pattern="Dockerfile*" type="Dockerfile" />
     </extensionMap>
