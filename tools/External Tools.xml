@@ -1,7 +1,7 @@
 <toolSet name="External Tools">
   <tool name="ressie BDD tests" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\_src\hello_meals\test\ressie&gt;C:\program_files\anaconda3\Scripts\behave.exe" />
+      <option name="COMMAND" value="C:\program_files\anaconda3\Scripts\behave.exe" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="C:/_src/hello_meals/test/ressie" />
     </exec>
