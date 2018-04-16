@@ -1,0 +1,10 @@
+<templateSet group="hello_meals">
+  <template name="ingredient" value="Ingredient('$INGREDIENT$', $AMOUNT$, U.$UNIT$)" toReformat="false" toShortenFQNames="true">
+    <variable name="INGREDIENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="AMOUNT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="UNIT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
