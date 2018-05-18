@@ -15,6 +15,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="model" type="PLAIN_TEXT" />
       <mapping ext="whl" type="PLAIN_TEXT" />
+      <mapping ext="tinydb" type="PLAIN_TEXT" />
       <mapping ext="wsgi" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="jsonschema" type="JSON Schema" />
