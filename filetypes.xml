@@ -7,6 +7,7 @@
       <mapping pattern="conda" type="PLAIN_TEXT" />
       <mapping pattern="post-checkout" type="PLAIN_TEXT" />
       <mapping pattern="moo" type="PLAIN_TEXT" />
+      <mapping pattern="all_spotify_ids_20180706" type="PLAIN_TEXT" />
       <mapping pattern="__init__" type="PLAIN_TEXT" />
       <mapping pattern=".condarc" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
