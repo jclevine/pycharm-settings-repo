@@ -1,27 +1,6 @@
 <toolSet name="External Tools">
   <tool name="coverage" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\program_files\anaconda3\envs\napyster\Scripts\coverage-3.6.exe" />
-      <option name="PARAMETERS" value="run -m unittest discover -s C:/_src/napyster/tests -t C:\_src\napyster -p test*.py" />
-      <option name="WORKING_DIRECTORY" value="c:/_src/napyster" />
-    </exec>
-  </tool>
-  <tool name="coverage-report" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="C:\program_files\anaconda3\envs\napyster\Scripts\coverage-3.6.exe" />
-      <option name="PARAMETERS" value="report -m" />
-      <option name="WORKING_DIRECTORY" value="c:/_src/napyster" />
-    </exec>
-  </tool>
-  <tool name="coverage-html" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="C:\program_files\anaconda3\envs\napyster\Scripts\coverage-3.6.exe" />
-      <option name="PARAMETERS" value="html" />
-      <option name="WORKING_DIRECTORY" value="c:/_src/napyster" />
-    </exec>
-  </tool>
-  <tool name="coverage-all" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
       <option name="COMMAND" value="C:\_src\napyster\tests\coverage-win.bat" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="C:/_src/napyster" />
