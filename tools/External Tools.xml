@@ -6,4 +6,11 @@
       <option name="WORKING_DIRECTORY" value="C:/_src/deezer-geezer/" />
     </exec>
   </tool>
+  <tool name="recreate-dbs" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\program_files\anaconda3\envs\bright-meal-planner\Scripts\flask.exe" />
+      <option name="PARAMETERS" value="init-db" />
+      <option name="WORKING_DIRECTORY" value="C:/_src/bright-meal-planner/bright_line_planner" />
+    </exec>
+  </tool>
 </toolSet>
