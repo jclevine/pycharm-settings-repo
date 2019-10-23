@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".condarc" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
+      <mapping pattern=".flaskenv" type="PLAIN_TEXT" />
       <mapping pattern=".noserc" type="PLAIN_TEXT" />
       <mapping pattern="conda" type="PLAIN_TEXT" />
       <mapping pattern="all_spotify_ids_20180706" type="PLAIN_TEXT" />
