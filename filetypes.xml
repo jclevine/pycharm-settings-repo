@@ -12,6 +12,7 @@
       <mapping pattern=".test_token2" type="PLAIN_TEXT" />
       <mapping pattern="__init__" type="PLAIN_TEXT" />
       <mapping pattern="moo" type="PLAIN_TEXT" />
+      <mapping pattern="access_token" type="PLAIN_TEXT" />
       <mapping pattern=".test_token" type="PLAIN_TEXT" />
       <mapping pattern="post-checkout" type="PLAIN_TEXT" />
       <mapping ext="feature" type="PLAIN_TEXT" />
